@@ -1,7 +1,7 @@
 /*Deep3_Prog5:
 Verificar a que elemento (Fuego, tierra, aire, agua)
 Corresponde un signo del zodiaco*/
- #include <stdio.h>
+ #include <stdio.h> NO TE VI EN CLASE
  int main()
  {
    int signo;
